@@ -1,4 +1,5 @@
-# Cclase03funciones
+# Santoliquido Juan Luca
+# Tutorial de Git + Github
 Programación en C ,Clase 03  funciones
 
   -1 crear una carpeta
